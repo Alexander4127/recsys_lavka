@@ -1,0 +1,10 @@
+polars
+numpy
+catboost
+optuna
+scikit-learn
+rich
+torch
+seaborn
+matplotlib
+pillow
