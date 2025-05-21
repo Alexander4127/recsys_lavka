@@ -71,4 +71,4 @@ python optimize.py
 
 ### 3. **Efficiency Features**
 - Parquet caching for fast feature reuse
-- GPU acceleration for CatBoost and SVD
+- GPU acceleration for CatBoost and collaborative features
